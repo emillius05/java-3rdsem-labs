@@ -1,0 +1,5 @@
+# параметры запуска
+# name: имя мотоциклиста, minPrice и maxPrice: диапазон цен для поиска ($)
+name=Иван
+minPrice=100
+maxPrice=300

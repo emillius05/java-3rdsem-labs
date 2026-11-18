@@ -1,0 +1,19 @@
+# формат строки: тип;название;вес (кг);цена ($);доп. параметр
+# helmet: класс защиты (1-5), jacket: наличие брони (true/false)
+# gloves: водонепроницаемые (true/false), boots: размер (30-50)
+helmet;Shoei X-Spirit;1.45;450;5
+helmet;AGV K1;1.30;180;3
+jacket;Dainese Racing;2.8;520;true
+jacket;Alpinestars Textile;1.9;260;false
+gloves;Held Air;0.35;120;false
+gloves;Revit Waterproof;0.5;150;true
+boots;TCX Street;1.6;230;42
+boots;Sidi Adventure;2.4;390;44
+
+# заведомо некорректные строки (должны быть проигнорированы)
+helmet;Брак;-1.2;100;4
+helmet;Без параметра;1.3;100
+gloves;Перчатки;0.4;abc;true
+jacket;Куртка;2.0;200;возможно
+boots;Ботинки;1.8;150;60
+visor;Неизвестный тип;0.1;10;1
