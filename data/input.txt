@@ -1,0 +1,4 @@
+Привет, мир! 123 Java-8 & Stream_API... Проверка: текст №7!
+report_2026_final.txt|report_*.txt
+document_a.docx|document_?.docx
+archive.zip|*.txt
