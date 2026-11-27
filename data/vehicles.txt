@@ -1,7 +1,0 @@
-# Type;regNumber;brand;model;vin;owner;propulsion;specificParam
-car;A123BC77;Toyota;Camry;1X4ABC7890;Иванов И.И.;ДВС;5
-bicycle;B999CC;Stels;Navigator;VINBICYCLE01;Петров П.П.;Мускульная сила;21
-scooter;S777XX;Xiaomi;M365;VINSCOOTER02;Сидоров С.С.;Электротяга;25.0
-motorcycle;M444OP;Yamaha;R1;VINMOTO03;Алексеев А.А.;ДВС;998
-quad;Q555QQ;BRP;Outlander;VINQUAD04;Николаев Н.Н.;ДВС;650
-invalid_type;X000XX;Bad;Car;BADVIN;None;None;0
