@@ -1,0 +1,9 @@
+# Формат: локаль;число
+en-US;1234.56
+ru-RU;1234,56
+de-DE;1234,56
+en-US;-0.75
+invalid_locale;10.5
+ru-RU;not_a_number
+en-US;
+en-US;1e500
